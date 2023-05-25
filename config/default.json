@@ -1,0 +1,5 @@
+{
+    "port" : "5000",
+    "jwt_secret" : "very_secret",
+     "url_db"  : "postgres://gnryxvoi:7fO-ZpSOk3A2UMYBMqgOeeB8Ma_cHiOM@john.db.elephantsql.com/gnryxvoi"
+}
